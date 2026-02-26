@@ -37,6 +37,7 @@ $$\begin{bmatrix} x' \\ y' \end{bmatrix} = \begin{bmatrix} \cos \theta & -\sin \
 
 - **Coordenadas Homogéneas**: Permiten tratar traslaciones, rotaciones y escalados como una sola operación matricial, facilitando el procesamiento en tarjetas de video.
 
+
   ---
 
 ## 1.4 Modelos del Color
