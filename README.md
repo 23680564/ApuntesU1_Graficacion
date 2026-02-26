@@ -32,8 +32,8 @@ Los gráficos son, en esencia, matemáticas aplicadas al espacio visual:
 
 **Transformaciones Lineales**: Las matrices de $3 \times 3$ y $4 \times 4$ son el estándar para mover objetos. Para rotar un punto $(x, y)$ un ángulo $\theta$ respecto al origen, usamos:
 
-$$\begin{bmatrix} x' \\ y' \end{bmatrix} = \begin{bmatrix} \cos \theta & -\sin \theta \\ 
-\sin \theta & \cos \theta \end{bmatrix} \begin{bmatrix} x \\ y \end{bmatrix}$$
+<img width="246" height="70" alt="image" src="https://github.com/user-attachments/assets/4e6a6321-58c1-4d38-8a9a-09e3fe3e3925" />
+
 
 - **Coordenadas Homogéneas**: Permiten tratar traslaciones, rotaciones y escalados como una sola operación matricial, facilitando el procesamiento en tarjetas de video.
 
