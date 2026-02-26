@@ -507,3 +507,15 @@ El procesamiento digital de imágenes consiste en aplicar funciones matemáticas
 - **Detección de Bordes (Sobel): Resalta los cambios bruscos de intensidad.
 
 - **Umbralización (Thresholding)**: Convierte una imagen a blanco y negro puro basándose en un límite de brillo, fundamental para el reconocimiento de formas.
+
+  ---
+
+  ## Bibliografias
+
+- Blender Foundation. (s. f.). Cycles Render Engine: Principles of Light and Materials. Blender Documentation. Recuperado 25 de febrero de 2026, de https://docs.blender.org/manual/en/latest/render/cycles/index.html
+
+- Hearn, D., Baker, M. P., & Carithers, W. R. (2014). Computer Graphics with OpenGL (4ta ed.). Pearson.
+
+- Hughes, J. F., Van Dam, A., McGuire, M., Sklar, D. F., Foley, J. D., Feiner, S. K., & Akeley, K. (2013). Computer Graphics: Principles and Practice. Addison-Wesley Professional.
+
+- Scribbr. (s. f.). Generador de Citas APA. Scribbr. Recuperado 25 de febrero de 2026, de https://www.scribbr.es/citar/generador/
