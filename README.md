@@ -40,6 +40,51 @@ Los gráficos son, en esencia, matemáticas aplicadas al espacio visual:
 
   ---
 
+  # TUTORIAL: Cómo iluminar un cubo y sus caras en Blender
+
+## PASO 1 — Crear un cubo
+1. Abre Blender
+<img width="1362" height="724" alt="image" src="https://github.com/user-attachments/assets/5c0f290b-722e-4255-9a7f-88a32d515d91" />
+
+3. Presiona *A* → Suprimir objetos  
+4. Agrega un cubo: *Shift + A → Mesh → Cube*
+<img width="396" height="276" alt="{03F55CEA-FD16-4BC0-92E9-8207988BD619}" src="https://github.com/user-attachments/assets/fc19cfe2-9805-4fff-b499-f4bee8ef88fd" />
+
+## PASO 2 — Activar vista renderizada
+En la esquina superior derecha:  
+*Viewport Shading → Rendered*
+<img width="354" height="111" alt="{C3699362-18E5-4FC6-8352-0B4F2A08042C}" src="https://github.com/user-attachments/assets/83be044d-cd66-4355-9071-4e46bf9ca7c4" />
+
+## PASO 3 — Agregar una luz
+1. *Shift + A → Light → Point Light*
+  <img width="469" height="103" alt="{11C992E7-814D-42A8-AB13-ED1B4C6C4166}" src="https://github.com/user-attachments/assets/e7ae17f8-6930-4540-9895-8d6077a26a93" />
+
+3. Mueve la luz con:
+   - *G* para mover
+<img width="290" height="239" alt="{8C8D2536-5BAD-4BCE-A041-C5EA43ADB28F}" src="https://github.com/user-attachments/assets/065dd89f-2d4b-4352-bfae-85647f45355b" />
+
+## PASO 4 — Material para cada cara
+1. Selecciona el cubo  
+2. En modo edición: *Tab*  
+3. Selecciona una cara  
+4. Ve a *Material Properties*
+<img width="245" height="495" alt="image" src="https://github.com/user-attachments/assets/06b692ab-aa2c-4bba-b8fa-5a73734b6b69" />
+
+6. Crea un material nuevo  
+7. Asigna color con modelo *HSV* o *RGB*  
+8. Presiona *Assign*
+
+Repite para cada cara.
+<img width="949" height="624" alt="image" src="https://github.com/user-attachments/assets/11e47b75-a13e-4d5d-bb38-b98bf48fd4ec" />
+
+## Resultado
+El cubo tendrá:
+- Caras iluminadas con color
+
+<img width="295" height="258" alt="image" src="https://github.com/user-attachments/assets/2941eefd-e595-4ff1-8ec4-5977d6d8b374" />
+
+---
+
 ## 1.4 Modelos del Color
 El color es la interpretación de la luz, y en computación se modela para diferentes fines:
 
